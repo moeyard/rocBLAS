@@ -5,7 +5,6 @@ rocBLAS User Guide
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   :numbered:
 
    Introduction
    Linux_Install_Guide

@@ -6,4 +6,7 @@ subtrees:
     entries:
     - file: Introduction
     - file: Programmers_Guide
+    - file: API_Reference_Guide
     - file: Windows_Install_Guide
+    - file: Acknowledgement
+    - file: Contributors_Guide
